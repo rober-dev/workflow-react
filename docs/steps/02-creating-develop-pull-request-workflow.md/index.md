@@ -36,5 +36,7 @@ jobs:
 ### 2. (Trabajando en la rama workflow) commiteamos los cambios y subimos la rama.
 
 ```bash
-
+git add -A
+git commit -m"Workflow"
+git push --set-upstream origin workflow
 ```
