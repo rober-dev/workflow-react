@@ -50,7 +50,9 @@ error: failed to push some refs to 'https://github.com/rober-dev/workflow-react.
 ➜  workflow-react git:(master)
 ```
 
-### 7. Crear una rama local para trabajar y poder subir los cambios.
+### 7. Añadir un colaborador (para que apruebe los cambios)
+
+### 8. Crear una rama local para trabajar y poder subir los cambios.
 Por ejempo:
 
 ```bash

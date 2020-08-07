@@ -40,3 +40,7 @@ git add -A
 git commit -m"Workflow"
 git push --set-upstream origin workflow
 ```
+
+### 3. Cambiamos la configurción de las ramas en github, para establecer como requisito un build correcto en la última semana (para las ramas master y develop)
+
+![image info](./update-github-settings.png)
