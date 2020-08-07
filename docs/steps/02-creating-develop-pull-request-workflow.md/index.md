@@ -41,6 +41,6 @@ git commit -m"Workflow"
 git push --set-upstream origin workflow
 ```
 
-### 3. Cambiamos la configurción de las ramas en github, para establecer como requisito un build correcto en la última semana (para las ramas master y develop)
+### 3. Cambiamos la configurción de las ramas en github, para establecer como requisito un build correcto para mergear con master y develop. Establecerlo en las dos ramas (master y develop)
 
 ![image info](./update-github-settings.png)
